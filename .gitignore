@@ -25,7 +25,6 @@ local.properties
 # User-specific configurations
 *.iml
 
-<<<<<<< HEAD
 # Local configuration file (sdk path, etc)
 local.properties
 
@@ -67,4 +66,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 #lint/reports/
->>>>>>> conflict
